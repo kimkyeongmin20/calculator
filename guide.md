@@ -77,6 +77,7 @@ git push
 1. 본인 GitHub 저장소 페이지에서 **Contribute** → **Open pull request**
 2. 원본 저장소(`hitech26-week3-calculator`)의 `main` 브랜치로 PR 생성
 3. 제목에 이름을 포함해서 작성 (예: `[홍길동] 계산기 제출`)
+4. PR을 열면 아래와 같은 템플릿이 자동으로 채워집니다. 빈칸을 채워서 제출하세요.
 
 > 💡 이 PR은 실제로 원본에 합쳐지는 게 아니라, "제출 확인용"입니다. Merge는 하지 않습니다.
 
